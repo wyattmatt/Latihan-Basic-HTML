@@ -21,6 +21,7 @@ This webpage serves as an introductory project to web programming. It explains t
 
 ## How to Use
 1. Clone the repository:
+   
    ```bash
    git clone https://github.com/your-username/repository-name.git
    ```
@@ -32,4 +33,4 @@ This project was created as part of a university assignment.
 ## License
 This project is licensed under the [MIT License](https://github.com/wyattmatt/Latihan-Basic-HTML/blob/main/LICENSE).
 
-&copy; 2019 ICLABS™
+&copy;CopyrightICLABS™2019
