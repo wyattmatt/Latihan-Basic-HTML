@@ -23,7 +23,7 @@ This webpage serves as an introductory project to web programming. It explains t
 1. Clone the repository:
    
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/wyattmatt/Latihan-Basic-HTML.git
    ```
 2. Open `index.html` in a web browser.
 
